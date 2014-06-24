@@ -11,7 +11,7 @@
 [general]
 name=multiPrint
 qgisMinimumVersion=2.0
-description=print multiple print composer views
+description= plugin for multiple composer views printing/exporting
 version=1.0
 author=enrico ferreguti
 email=enricofer@gmail.com
@@ -24,12 +24,12 @@ email=enricofer@gmail.com
 # changelog=
 
 # tags are comma separated with spaces allowed
-tags=
+tags= print composer, multiple, print, multiple print, print, pdf, export, map composer
 
-homepage=
-tracker=
-repository=
-icon=icon.png
+homepage=http://geogear.wordpress.com
+tracker=https://github.com/enricofer/multiPrint/issues
+repository=https://github.com/enricofer/multiPrint
+icon=icon-big.png
 # experimental flag
 experimental=False
 
